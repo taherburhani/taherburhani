@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhaadeKaTattoo
+- 👋 Hi, I’m taher
 - 👀 I’m interested in Physics, Mathematics and Coding
 - 🌱 I’m currently learning Python, C++ and LaTeX
 - 💞️ I’m looking to collaborate on 
